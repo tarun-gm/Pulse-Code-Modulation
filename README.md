@@ -3,6 +3,7 @@
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 
 # Program
+```
 #PCM
 import numpy as np
 import matplotlib.pyplot as plt
@@ -67,6 +68,9 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
+```
+```
+#DM
 #Delta Modulation
 import numpy as np
 import matplotlib.pyplot as plt
@@ -122,11 +126,12 @@ plt.legend()
 plt.grid()
 plt.tight_layout()
 plt.show()
+```
 # Output Waveform
-<img width="1050" height="630" alt="Screenshot 2025-09-13 151849" src="https://github.com/user-attachments/assets/fa3cd80d-6650-4fcb-a4ec-55e3e67f9ad9" />
-<img width="1045" height="224" alt="Screenshot 2025-09-13 151908" src="https://github.com/user-attachments/assets/f21b560f-f0b3-4af5-b342-45abf270fc2d" />
+<img width="1148" height="847" alt="image" src="https://github.com/user-attachments/assets/7482b77c-ccc8-4baf-b52e-34e9bb06de77" />
  # delta modulation output
- <img width="1035" height="508" alt="Screenshot 2025-09-13 152356" src="https://github.com/user-attachments/assets/6e03b8f2-8f43-41c9-a755-e2eb35220f51" />
+<img width="1075" height="478" alt="image" src="https://github.com/user-attachments/assets/79be2818-32f9-4107-84e6-b2c9bea1304b" />
+
 
 # Results
 Hence a simple Python program for the modulation and demodulation of PCM, and DM.
